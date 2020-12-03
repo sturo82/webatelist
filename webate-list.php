@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Webate List
-Plugin URI:  https://github.com/sturo82/webatelist/
+Plugin URI:  
 Description: List of all Custom Post Type Webate, with filter
-Version:     1.0.2
+Version:     1.0.1
 Author:      Giacomo Surano
 Author URI:  https://github.com/sturo82
 License:     GPL2
