@@ -1,3 +1,6 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+// Internal Dependencies
+import WebateList from './WebateList/WebateList';
 
-export default [HelloWorld];
+export default [
+    WebateList,
+];

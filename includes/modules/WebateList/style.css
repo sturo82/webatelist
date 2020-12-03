@@ -1,0 +1,156 @@
+.weli-webate-heading {
+	margin-top: 90px;
+}
+
+.webate-label{
+	
+	/*display: flex;*/
+	color:#fff;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 8px;
+	position: static;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+	background: #0E9FE9;
+	flex: none;
+	flex-grow: 0;
+	order: 0;
+	align-self: flex-start;
+	flex-grow: 0;
+	margin: 0px 0px;
+	position: relative;
+	top: 80px;
+	z-index: 999;
+	left: 180px;
+	border-radius: 3px;
+}
+
+#webate-container .et_pb_title_container{
+	width: 100% !important;
+}
+.webate-container .et_pb_section{
+	background-color: unset;
+}
+
+.webate-container .et_pb_title_meta_container{
+	color: #fff;
+}
+
+.webate-container .entry-title{
+	color: #0E9FE9;
+	font-weight: 700;
+	font-family: 'Montserrat';
+	font-style: normal;
+}
+.webate-container{
+	background: url('/makingfuture/wp-content/uploads/2020/10/webate-bg.png');
+	background-color: rgb(204, 204, 204);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	position: relative;
+}
+
+.webate-filter-container{
+	background: url('/makingfuture/wp-content/uploads/2020/10/bg_albero-1.png');
+	background-color: rgb(204, 204, 204);
+	background-position: center;
+	background-repeat: no-repeat;
+	/*background-size: cover;*/
+	/*color: #ccc;*/
+	border-bottom: 3px solid #ccc;
+	padding: 5%;;
+}
+
+.webate-related-carousel-highlights, .webate-related-carousel-focus{
+	width: 90%; 
+	margin: 0 auto;
+}
+
+
+.video-carousel{
+	padding: 5px !important;
+	height: auto;
+}
+.webate-related-carousel-highlights .description, .webate-related-carousel-focus .description{
+	width: 90%;
+	display: block;
+	margin: 0 auto;
+	margin-left: 0;
+}
+
+.title-carousel{
+	color: #0E9FE9;
+font-weight: bold;
+margin-left: 50px;
+margin-top: 50px;
+}
+
+.icheckbox_flat-aero .iCheck-helper{
+	opacity: 1 !important;
+	border: 2.5px solid #CE1C4F !important;
+}
+
+.icheckbox_flat-aero.checked .iCheck-helper{
+	background: #ce1c4f !important;
+}
+
+.mdf_input_container .mdf_tax_filter_section{
+	width: 100% !important;
+}
+
+.mdf_taxonomy_check_list{
+	/*text-align: center !important;*/
+	padding-left: 20% !important;
+}
+
+ul.mdf_taxonomy_check_list li{
+	margin: 0 auto !important;
+    margin-bottom: 0px !important;
+	display: inline-block !important;
+	width: 24% !important;
+	
+}
+
+.filter-procedi, .filter-indietro{
+	color: #ce1c4f;
+	cursor: pointer;
+}
+
+.filter-procedi{
+	text-align: right;
+}
+
+.filter-indietro{
+	text-align: left;
+}
+
+.webate-filter-container.filter-category{
+	width: 100%;
+	z-index: 1;
+	position: absolute;
+	left: 0;
+	height: 100%;
+}
+
+.webate-filter-container.filter-type{
+	width: 100%;
+	z-index: 2;
+	left: 100%;
+	position: absolute;
+	height: 100%;
+}
+
+#webate-container-filters{
+	height: 310px;
+	
+}
+
+#webate-container-filters{
+	overflow: hidden;
+}
+
