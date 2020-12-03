@@ -2,7 +2,7 @@
 
 {
 	"version" => "1.0.2",
-	"download_url" : "https://github.com/sturo82/webatelist/webatelist.zip",
+	"download_url" : "https://github.com/sturo82/webatelist/webate-list.zip",
 	"requires" : "3.0",
 	"tested" : "4.8.1",
 	"requires_php" : "5.3",
